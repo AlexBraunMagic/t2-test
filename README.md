@@ -22,7 +22,7 @@
 
 1. **Клонируйте репозиторий:**
 ```bash
- git clone <URL-вашего-репозитория>
+ git clone https://github.com/AlexBraunMagic/t2-test
 ```
 2. **Перейдите в директорию проекта:**
 ```bash
